@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhpSend</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_bienvenue">Bienvenue</string>
+    <string name="txt_saisir">Saisisez Votre Message ici</string>
+    <string name="btn_message">Envoyer</string>
+
+</resources>
